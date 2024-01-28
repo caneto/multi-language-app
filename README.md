@@ -8,7 +8,7 @@ A Flutter app designed to help you find mentors to hone your skills. This reposi
 
 ## Getting Started
 
-Explore how the app effortlessly switches between languages, providing users with a localized interface. From English to Spanish, French to Mandarin, witness the fluidity of language transitions and the elegance of Flutter's internationalization features. Discover the simplicity of managing and integrating multiple languages within your Flutter projects. Here's your guide:
+Explore how the application switches effortlessly between languages, offering users a localized interface. From English to Portuguese, from Portuguese to French, witness the fluidity of language transitions and the elegance of Flutter's internationalization features. Discover the simplicity of managing and integrating multiple languages into your Flutter projects. Here's your guide:
 
 1. **Clone the Repository**: Begin by cloning this repository to your local machine using the following command:
 
